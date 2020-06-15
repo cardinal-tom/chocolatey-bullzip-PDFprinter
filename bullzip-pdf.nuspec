@@ -20,6 +20,12 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
   	<iconUrl>https://rawcdn.githack.com/cardinal-tom/chocolatey-bullzip-PDFprinter/1b3a7f42ed8288e01da50766b209ffd7357e1c63/bullzip_logo.png</iconUrl>
     <releaseNotes>https://www.bullzip.com/products/pdf/info.php#VersionHistory</releaseNotes>
+	  <dependencies>
+    		<dependency id="ghostscript" version="9.52" />
+    		<dependency id="xpdf-utils" version="3.4.0.20170430" />
+    		<dependency id="pdf-power-tool" version="2.0.0.0" />
+	</dependencies>
+
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
