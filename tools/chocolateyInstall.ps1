@@ -1,6 +1,6 @@
 $ErrorActionPreference = 'Stop';
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'http://cdn.bullzip.com/download/pdf_pro_exp/Setup_BullzipPDFPrinter_11_13_0_2823_PRO_EXP.exe'
+$url        = 'https://www.bullzip.com/download/pdf_pro_exp/Setup_BullzipPDFPrinter_11_13_0_2823_PRO_EXP.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
