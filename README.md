@@ -2,7 +2,7 @@
 
 The Bullzip PDF Printer works as a Microsoft Windows printer and allows you to write PDF documents from virtually any Microsoft Windows application.
 
-This program is FREEWARE with limitations, which means that there is a FREE version for personal and commercial use up to 10 users. It does not contain any advertising or popups. For commercial applications with more than 10 users [tere are commercial versions available with advanced features](https://www.biopdf.com/).
+This program is FREEWARE with limitations, which means that there is a FREE version for personal and commercial use up to 10 users. It does not contain any advertising or popups. For commercial applications with more than 10 users [there are commercial versions available with advanced features](https://www.biopdf.com/).
 
 Features
 - Print to PDF from almost any Windows program.
