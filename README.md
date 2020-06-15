@@ -1,4 +1,4 @@
-﻿# <img src="https://rawcdn.githack.com/cardinal-tom/chocolatey-bullzip-PDFprinter/6802b37039c3e5fdf7f47c95ddaf63260e94498b/bullzip logo.png" />
+﻿# <img src="https://rawcdn.githack.com/cardinal-tom/chocolatey-bullzip-PDFprinter/1b3a7f42ed8288e01da50766b209ffd7357e1c63/bullzip_logo.png" />
 [Bullzip PDF printer](https://www.bullzip.com/products/pdf/info.php)
 
 The Bullzip PDF Printer works as a Microsoft Windows printer and allows you to write PDF documents from virtually any Microsoft Windows application.
