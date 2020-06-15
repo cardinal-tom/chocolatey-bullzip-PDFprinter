@@ -18,7 +18,7 @@
 	  <docsUrl>https://www.bullzip.com/kb/</docsUrl>
 	  <mailingListUrl>https://www.bullzip.com/newsletter.php</mailingListUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-  	<iconUrl>https://www.bullzip.com/assets/images/logo.png</iconUrl>
+  	<iconUrl>https://rawcdn.githack.com/cardinal-tom/chocolatey-bullzip-PDFprinter/6802b37039c3e5fdf7f47c95ddaf63260e94498b/bullzip logo.png</iconUrl>
     <releaseNotes>https://www.bullzip.com/products/pdf/info.php#VersionHistory</releaseNotes>
   </metadata>
   <files>
