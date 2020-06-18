@@ -23,7 +23,7 @@
 	  <dependencies>
     		<dependency id="ghostscript" version="9.52" />
     		<dependency id="xpdf-utils" version="3.4.0.20170430" />
-    		<dependency id="pdf-power-tool" version="2.0.0.0" />
+    		<dependency id="dotnetfx" version="4.8.0.20190930" />
 	</dependencies>
 
   </metadata>
